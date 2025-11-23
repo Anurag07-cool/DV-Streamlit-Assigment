@@ -56,11 +56,6 @@ pip install streamlit pandas plotly
 ```
 ## 3. Data Setup
 
-23/11/2025, 10:36 Google Gemini
-
-https://gemini.google.com/app/38dc1500fee64c2f 1 / 2
-
-
 ### Ensure your dataset is named environment_pollution_data.csv and is placed in the root directory.
 
 ### The CSV should contain the following columns:
