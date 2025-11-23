@@ -77,7 +77,7 @@ lon Longitude (Optional, for map)
 ### Navigate to the project directory in your terminal and execute:
 
 ```
-streamlit run pollution_dashboard.py
+streamlit run Dashboard.py
 ```
 ### The application will launch automatically in your default web browser.
 
@@ -85,7 +85,8 @@ streamlit run pollution_dashboard.py
 
 ```
 DV_Streamlit_Assignment/│
-├──├── environment_pollution_data.csv # Source dataset pollution_dashboard.py # Main application code
+├──├──Dashbord.py
+├── environment_pollution_data.csv
 └── README.md # Project documentation
 ```
 ## 💡 Insights generated
